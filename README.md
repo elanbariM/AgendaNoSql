@@ -3,7 +3,7 @@ A student timetable
 
 
 * Table of Contents                                       :TOC_4_gh:noexport:
-- [[#team][Team]]
+- [#team][Team]
 - [[#contexte][Contexte]]
 - [[#contrat-dapi][Contrat d'API]]
   - [[#calendrier][Calendrier]]
