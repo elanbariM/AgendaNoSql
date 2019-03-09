@@ -1,4 +1,4 @@
-# AgendaNoSql
+* AgendaNoSql
 A student timetable
 
 
