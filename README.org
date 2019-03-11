@@ -9,21 +9,20 @@ A student timetable
   - [[#calendrier][Calendrier]]
     - [[#get-calendrier][GET Calendrier]]
   - [[#seance][Seance]]
-    - [[#getseance][GET Seance by Id]]
+    - [[#getseance][GET Seance]]
     - [[#CreateSeance][Create Seance]]
-    - [[#CreateSalleSeance][Create Salle Seance]]
-    - [[#CreateProfSeance][Create Prof Seance]]
-    - [[#DeleteSeance][Delete Seance]]
+  - [[#filier][filiere]]
+    - [[#getfiliere][GET filiere]]
+    - [[#CreateFiliere][Create Filiere]]
   - [[#Professeur][Professeur]]
     - [[#getProfesseur][GET Professeur]]
+    - [[#CreateProf][Create Prof]]
   - [[#Salle][Salle]]
-    - [[#GetSalle][GET Salle]]
+    - [[#GetSalle][GET Salle]
+    - [[#CreateSalle][Create Salle]
   - [[#Enseignement][Enseignement]]
     - [[#GetEnseignement][GET Enseignement]]
-
-    
-    
-
+    - [[#CreateEnseignement][Create Enseignement]]
 
 * Team
 - Sara
