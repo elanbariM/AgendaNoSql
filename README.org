@@ -18,7 +18,7 @@ A student timetable
     - [[#getProfesseur][GET Professeur]]
     - [[#CreateProf][Create Prof]]
   - [[#Salle][Salle]]
-    - [[#getSalle][GET SAlle]]
+    - [[#getSalle][GET Salle]]
     - [[#CreateSalle][Create Salle]]  
   - [[#Enseignement][Enseignement]]
     - [[#GetEnseignement][GET Enseignement]]
